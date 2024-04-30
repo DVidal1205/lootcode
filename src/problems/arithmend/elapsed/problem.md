@@ -6,7 +6,7 @@ In this problem, you are given a series of 24-hour times in the format _HH:MM_ a
 
 ## Input
 
-The input will contain a single integer, _n (1 ≤ n ≤ 10,000)_, which represents the number of times in the series. The next _n_ lines will contain a 24-hour time in the format _HH:MM_.
+The input will contain a single integer, _n (1 ≤ n ≤ 10,000)_, which represents the number of times in the series. The next _n_ lines will contain a 24-hour time in the format _HH:MM:SS_.
 
 ```
 3
